@@ -4,3 +4,5 @@ Se han hecho dos bots de telegram básicamente porque al no usar componentes ext
 Uno consiste más en la interacción directa con la esp32 y el otro que es para hacer una lista de comandos interactivos.
 ## Referencias:
 https://github.com/witnessmenow/Universal-Arduino-Telegram-Bot
+
+Rafael Martínez Chacón y Arnau Martín Brull
