@@ -320,9 +320,11 @@ void loop() {
 
 
 ## **Conclusión**
-Se ha podido comprovar que el programa funciona correctamentel, en este caso no se ha usado ningun led externo simplemente el que ya viene a la placa. Esto se puede ver en las imagenes que se muestran al final.
+Se ha podido comprovar que el programa funciona correctamente, en este caso no se ha usado ningun led externo simplemente el que ya viene a la placa. Esto se puede ver en las imagenes que se muestran al final.
 ## **Referencias**
 <https://github.com/witnessmenow/Universal-Arduino-Telegram-Bot/>
+
+https://randomnerdtutorials.com/telegram-control-esp32-esp8266-nodemcu-outputs
 
 ## **Imágenes de la práctica**
 <p align="right">
